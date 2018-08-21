@@ -1,6 +1,6 @@
 # PaytmPaymentApp
 
-## Code is in working mode but before download you have to need some file
+## Code is in working mode but before downloading you will have to need some files.
 
 ### 1. Paytm Sandbox credential [Visit paytm website](https://business.paytm.com/payments)
 
