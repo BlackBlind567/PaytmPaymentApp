@@ -8,6 +8,7 @@
     Download that code and go into ConfigChecksum.php file and change Merchant Key    
 
 ### 3. Paytm PGSDK file . that is already in project so don't worry about it.
+    You can in app => libs => PGSDK File.
 
 ## Before run Check Constants file in project
 
