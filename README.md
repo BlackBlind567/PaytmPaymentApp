@@ -10,7 +10,12 @@
 ### 3. Paytm PGSDK file . that is already in project so don't worry about it.
     You can in app => libs => PGSDK File.
 
-## Before run Check Constants file in project
+#### Before run Check Constants file in project
+
+**_Note_**
+
+# Please check a youtube video description for developing a app without error. It is mandatory after new file setup of Paytm.
+[Video link](https://www.youtube.com/watch?v=4BmcwToVTsA&t=3s)
 
 Now you can easily run your project but if any case you have any issues you can ask to me.
 
